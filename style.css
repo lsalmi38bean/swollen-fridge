@@ -1,0 +1,22 @@
+.center-image {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.center-image img {
+  width: 60%;
+  max-width: 400px;
+}
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+img {
+  margin: 10px 0;
+  width: 300px;
+  border-radius: 8px;
+}
